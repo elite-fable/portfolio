@@ -64,7 +64,7 @@ const About = () => {
               src={aboutpic} 
               alt="Chetna Lilhare" 
               className="w-120 h-100 rounded-full border-4 border-black shadow-lg transform hover:scale-105 transition duration-500"
-             {/*  style={{
+             /*  style={{
                 boxShadow: "0 0 20px rgba(25, 255, 255, 0.7), 0 0 30px rgba(255, 255, 255, 0.7), 0 0 40px rgba(255, 255, 255, 0.7), 0 0 50px rgba(255, 255, 255, 0.7), 0 0 60px rgba(255, 255, 255, 0.7)",
                 transition: "box-shadow 0.3s ease-in-out"
               }}
@@ -73,7 +73,7 @@ const About = () => {
               }}
               onMouseLeave={e => {
                 e.currentTarget.style.boxShadow = "0 0 20px rgba(0, 255, 255, 0.7), 0 0 30px rgba(0,255,147, 0.7), 0 0 40px rgba(0,105,180, 0.7), 0 0 50px rgba(0, 255, 255, 0.7), 0 0 60px rgba(0, 230, 255, 0.7)";
-              }} */}
+              }} */
             />
           </motion.div>
         </div>
